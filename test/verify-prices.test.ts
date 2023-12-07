@@ -31,7 +31,7 @@ describe("verify prices test", function () {
               type: "cache-layer",
               url: getCacheServiceUrl(),
               evmSignerAddress: "0x41ed5321B76C045f5439eCf9e73F96c6c25B1D75",
-              providerId: "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+              providerId: "redstone-primary-demo",
             },
           ],
           valueSelectionAlgorithm: "newest-valid",
